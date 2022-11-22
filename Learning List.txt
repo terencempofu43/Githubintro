@@ -7,4 +7,4 @@ unix
 Python
 C++
 Java
-HTML/CSS
+HTML
