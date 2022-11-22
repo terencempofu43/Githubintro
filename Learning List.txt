@@ -5,3 +5,5 @@ vi
 linux
 unix
 Python
+C++
+Java
